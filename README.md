@@ -8,9 +8,11 @@ An asset management platform with defi access to collect investments powered by 
 - [Genesis Vision](https://genesis.vision/)
 # What is MetaTrader 4
 A free trading platform for Windows. Recommendations are to host your MT4 platform on a cheap Windows VPS. 
+- [MT4](https://download.mql5.com/cdn/web/metaquotes.software.corp/mt4/mt4setup.exe?utm_source=www.metatrader4.com&utm_campaign=download)
 
 # What is GVTBOT
 An open source trading robot for MT4 that can only be traded on Genesis.Vision partnered brokerage RoboForex PRO-ECN trading accounts. 
+- [GVTBot](https://github.com/GVTBot/MT4-GVTBot)
 
 # Instructions
 1. Open RoboForex PRO-ECN trading account at Genesis.Vision
